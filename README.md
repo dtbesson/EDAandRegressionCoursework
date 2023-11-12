@@ -8,4 +8,5 @@ I opted to use Python for the exploratory data analysis, then R for the regressi
 
 Please note that the Appendix section of the pdf report simply repeats what is in the attached Jupyter notebook and R file.
 
-Please take a look!
+Take a look!
+
