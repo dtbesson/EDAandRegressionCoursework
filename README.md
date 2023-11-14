@@ -6,7 +6,7 @@ We used the PimaDiabetes dataset, which includes some biometrics on 750 women, a
 
 I opted to use Python for the exploratory data analysis, then R for the regression models, as this is what I am most comfortable with.
 
-Please note that the Appendix section of the pdf report simply repeats what is in the attached Jupyter notebook and R file.
+In any other circumstance, I would have used mean value imputation in order to deal with the zeroes in the dataset. Since this was not yet taught on this course, it was not required and I decided to leave it out.
 
-Take a look!
+Please take a look!
 
